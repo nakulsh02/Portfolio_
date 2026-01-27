@@ -5,6 +5,7 @@ I am a **student web & game developer** who enjoys building **interactive, creat
 
 This repository showcases **8 of my complete and creative projects**, each focused on UI design, logic, and user interaction.
 
+https://nakulsh02.github.io/Portfolio_/
 
 ---
 
